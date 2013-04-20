@@ -1,0 +1,28 @@
+/*
+	simple css for pagination 
+
+
+
+
+*/
+
+a.pnation{
+	color: blue;
+	text-decoration: none;
+
+
+
+}
+
+a.pnation:hover{
+	color: blue;
+	text-decoration: underline;
+	
+
+
+}
+a.pnation:visit{
+	color: blue;
+	text-decoration: none;
+
+}
