@@ -1,6 +1,6 @@
 <?php
 $link=mysql_connect("localhost","username","pass");
-mysql_select_db("whiteBlog",$link);
+mysql_select_db("database",$link);
 
 $sql="Select count(*) From article"; //count all record in the table
 $rs=mysql_query($sql);
